@@ -1,0 +1,8 @@
+azure-functions==1.23.0
+numpy==2.2.6
+pandas==2.2.3
+pyodbc==5.2.0
+requests==2.32.4
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
