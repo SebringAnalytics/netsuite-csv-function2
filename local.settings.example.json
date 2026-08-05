@@ -1,0 +1,23 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "NETSUITE_LOAD_SCHEDULE": "0 0 5 * * *",
+    "NETSUITE_ACCOUNT": "5568309_SB2",
+    "NETSUITE_SOAP_VERSION": "2025_1",
+    "NETSUITE_URL": "https://5568309-sb2.suitetalk.api.netsuite.com/services/NetSuitePort_2025_1",
+    "NETSUITE_CONSUMER_KEY": "replace-me",
+    "NETSUITE_CONSUMER_SECRET": "replace-me",
+    "NETSUITE_TOKEN_ID": "replace-me",
+    "NETSUITE_TOKEN_SECRET": "replace-me",
+    "AZURE_SQL_SERVER": "your-server.database.windows.net",
+    "AZURE_SQL_DATABASE": "your-database",
+    "AZURE_SQL_USERNAME": "your-user",
+    "AZURE_SQL_PASSWORD": "replace-me",
+    "AZURE_SQL_SCHEMA": "dbo",
+    "REQUEST_TIMEOUT_SECONDS": "300",
+    "SQL_CONNECTION_TIMEOUT_SECONDS": "30",
+    "INSERT_BATCH_SIZE": "5000"
+  }
+}
