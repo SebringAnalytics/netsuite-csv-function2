@@ -15,7 +15,7 @@ on:
 
 env:
   IMAGE_NAME: netsuite-csv-function
-  IMAGE_TAG: v1
+  IMAGE_TAG: v2
 
 jobs:
   build-and-push:
